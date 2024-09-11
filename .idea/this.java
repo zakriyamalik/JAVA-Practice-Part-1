@@ -6,7 +6,7 @@ public class Book {
     private Page[] pages;
     public Book(){
         this.title = "";
-        this.totalPages = 0;
+        this.totalPages =b  0;
         this.pages = new Page[totalPages];
 
     }
