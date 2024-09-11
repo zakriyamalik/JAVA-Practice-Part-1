@@ -14,6 +14,7 @@ public class Book {
     {
         this.title = title;
         this.totalPages = 0;
+        //n
         this.pages = new Page[totalPages];
 
     }
